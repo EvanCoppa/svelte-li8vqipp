@@ -1,0 +1,18 @@
+{
+  "name": "@backlight-dev/queen-sneak-a5rgq.svelte-li8vqipp",
+  "version": "2.0.4",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve uKuj0ZWOkFAjiPvDk797 --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.0.0"
+  },
+  "dependencies": {
+    "svelte": "^3.44.0"
+  }
+}
